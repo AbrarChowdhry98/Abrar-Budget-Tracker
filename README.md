@@ -4,10 +4,10 @@
 Budget Tracker is an application which allows offline access and functionality to it's users. The user can add expenses or deposits without a connection.
 
 ## Project URL
-
+https://budget-tracker199.herokuapp.com
 
 ## Project Github Repository
-
+https://github.com/AbrarChowdhry98/Abrar-Budget-Tracker
 
 ## User Story
 AS AN avid traveler
@@ -20,7 +20,7 @@ SO THAT my account balance is accurate when I am traveling
   * [Author](#author)
 
 ## Project Screenshot
-![Project-Screenshot]()
+![Project-Screenshot](https://github.com/AbrarChowdhry98/Abrar-Budget-Tracker/blob/main/assets/Screen%20Shot%202021-11-10%20at%202.26.39%20PM.png)
 
 ## Author
 Abrar Chowdhry
