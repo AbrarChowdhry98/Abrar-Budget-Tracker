@@ -20,7 +20,7 @@ SO THAT my account balance is accurate when I am traveling
   * [Author](#author)
 
 ## Project Screenshot
-![Project-Screenshot]())
+![Project-Screenshot]()
 
 ## Author
 Abrar Chowdhry
